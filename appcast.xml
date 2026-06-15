@@ -16,7 +16,7 @@
 <li>Add Changie release fragments and generated Sparkle release notes.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://quantfive.github.io/mingbai-releases/downloads/Mingbai-0.1.0.zip" length="6856925" type="application/octet-stream" sparkle:edSignature="sebjq61dmYhSbtan1MN2Nbw2ZwNXPD950soUnnX0bSlLAcKpoqS/mVdV2diHYP+/8aacmwnWM3hKVEORJViiAg=="/>
+            <enclosure url="https://quantfive.github.io/mingbai-releases/downloads/Mingbai-0.1.0.zip" length="6856891" type="application/octet-stream" sparkle:edSignature="0MQoj475nITPsiNSQlKiMe0G+61jXuCo3KaCNmGFZygcOsNsyIUk9qUx6htDSFEg2anl+JeLhEc8zdeZ0jmRAA=="/>
         </item>
     </channel>
 </rss>
