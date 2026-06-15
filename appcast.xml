@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mingbai</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 15 Jun 2026 05:23:57 +0000</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Mingbai 0.1.0</h2>
+<h3>Added</h3>
+<ul>
+<li>Show an Update Available item in the menu bar when Sparkle finds a new version.</li>
+<li>Add Changie release fragments and generated Sparkle release notes.</li>
+</ul>
+]]></description>
+            <enclosure url="https://quantfive.github.io/mingbai-releases/downloads/Mingbai-0.1.0.zip" length="6856925" type="application/octet-stream" sparkle:edSignature="sebjq61dmYhSbtan1MN2Nbw2ZwNXPD950soUnnX0bSlLAcKpoqS/mVdV2diHYP+/8aacmwnWM3hKVEORJViiAg=="/>
+        </item>
+    </channel>
+</rss>
